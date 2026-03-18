@@ -1,0 +1,12 @@
+## Steps Performed
+
+1. Created Resource Group
+2. Configured VNet and Subnets
+3. Created NSG and rules
+4. Deployed VM
+5. Installed Nginx
+6. Created Key Vault
+7. Stored secrets
+8. Enabled Managed Identity
+9. Assigned RBAC roles
+10. Retrieved secret using CLI
