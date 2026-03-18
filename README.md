@@ -2,6 +2,10 @@
 # Azure Secure Web Application 🚀
 
 ## 📌 Overview
+
+“I deployed a secure Azure web application using VM, VNet, and NSG. I implemented Azure Key Vault for secret management and used Managed Identity with RBAC to securely access secrets without credentials. During the process, I resolved issues related to quota limits, RBAC permissions, and identity-based authentication.”
+
+
 This project demonstrates deploying a secure web application on Azure using best practices for networking, security, and identity management.
 
 ---
@@ -49,8 +53,8 @@ Using Managed Identity with Azure Key Vault ensures secure, credential-free acce
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here)
+
+
 
 ---
 
